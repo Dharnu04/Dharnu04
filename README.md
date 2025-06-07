@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hey there! I'm Dharnu</h1>
+<p align="center">
+  🚀 Aspiring Engineer | 💻 ML & Data Enthusiast | ⚡ Building cool tech projects!
+</p>
 
-<!--
-**Dharnu04/Dharnu04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💡 About Me
+- 🎓 I'm an Electrical & Electronics Engineering student passionate about technology, code, and innovation.
+- 🧠 Exploring the intersection of **Machine Learning**, **Artificial Intelligence**, and **Full-Stack Development**.
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** Python, Java
+- **ML Tools:** scikit-learn, XGBoost, pandas, matplotlib, numpy
+- **Web/GUI:** Streamlit, FastAPI, tkinter
+- **Dev Tools:** VS Code, Pycharm, IntelliJ, Git, GitHub, Google colab
+
+---
+### 📫 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/dharnu04/)
+- 🌱 Always open to collaboration, learning, and impactful project ideas!
+
+---
+
+_Thanks for stopping by! ⭐ Feel free to check out my pinned repos and drop a ⭐ if you like my work!_
