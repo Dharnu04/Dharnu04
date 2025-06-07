@@ -18,7 +18,7 @@
 
 ---
 ### 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/dharnu04/)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/dharnu0304/])
 - 🌱 Always open to collaboration, learning, and impactful project ideas!
 
 ---
